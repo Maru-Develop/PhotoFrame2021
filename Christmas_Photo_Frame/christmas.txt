@@ -57,8 +57,8 @@
   "landscape2":[
   "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Christmas_Photo_Frame/landscape_2/frame_1.webp",
   "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Christmas_Photo_Frame/landscape_2/frame_2.webp",
-  "https://github.com/Maruf-Developer/PhotoFrame2021/blob/main/Christmas_Photo_Frame/landscape_2/newframe1.png",
-  "https://github.com/Maruf-Developer/PhotoFrame2021/blob/main/Christmas_Photo_Frame/landscape_2/newframe2.png",
+  "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Christmas_Photo_Frame/landscape_2/newframe2.png",
+  "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Christmas_Photo_Frame/landscape_2/newframe1.png",
     "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Christmas_Photo_Frame/landscape_2/frame%20(1).png",
     "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Christmas_Photo_Frame/landscape_2/frame%20(2).png",
     "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Christmas_Photo_Frame/landscape_2/frame%20(3).png",
