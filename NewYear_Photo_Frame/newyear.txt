@@ -43,7 +43,6 @@
     "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/NewYear_Photo_Frame/landframe/f3.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/NewYear_Photo_Frame/landframe/f4.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/NewYear_Photo_Frame/landframe/f5.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/NewYear_Photo_Frame/landframe/f6.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/NewYear_Photo_Frame/landframe/f7.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/NewYear_Photo_Frame/landframe/f8.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/NewYear_Photo_Frame/landframe/f9.webp",
@@ -52,7 +51,6 @@
     "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/NewYear_Photo_Frame/landframe/f12.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/NewYear_Photo_Frame/landframe/f13.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/NewYear_Photo_Frame/landframe/f14.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/NewYear_Photo_Frame/landframe/f15.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/NewYear_Photo_Frame/landframe/f16.webp"
     ],
      "landscape_letter1":[
