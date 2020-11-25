@@ -1,5 +1,11 @@
 {
   "portrait":[
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/NewYear_Photo_Frame/portrait/1%20(1).png",
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/NewYear_Photo_Frame/portrait/1%20(2).png",
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/NewYear_Photo_Frame/portrait/1%20(3).png",
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/NewYear_Photo_Frame/portrait/1%20(4).png",
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/NewYear_Photo_Frame/portrait/1%20(5).png",
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/NewYear_Photo_Frame/portrait/1%20(6).png",
     "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/NewYear_Photo_Frame/portrait/frame%20(1).png",
     "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/NewYear_Photo_Frame/portrait/frame%20(2).png",
     "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/NewYear_Photo_Frame/portrait/frame%20(3).png",
