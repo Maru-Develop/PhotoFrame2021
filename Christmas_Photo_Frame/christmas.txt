@@ -1,5 +1,12 @@
 {
   "portrait":[
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Christmas_Photo_Frame/portrait_2021/frame_1.png",
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Christmas_Photo_Frame/portrait_2021/frame_2.png",
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Christmas_Photo_Frame/portrait_2021/frame_3.png",
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Christmas_Photo_Frame/portrait_2021/frame_4.png",
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Christmas_Photo_Frame/portrait_2021/frame_5.png",
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Christmas_Photo_Frame/portrait_2021/frame_6.png",
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Christmas_Photo_Frame/portrait_2021/frame_7.png",
     "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Christmas_Photo_Frame/portrait_2021/frame%20(1).png",
     "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Christmas_Photo_Frame/portrait_2021/frame%20(2).png",
     "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Christmas_Photo_Frame/portrait_2021/frame%20(3).png",
