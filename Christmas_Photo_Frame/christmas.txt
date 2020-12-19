@@ -32,31 +32,30 @@
     ],
     
   "landscape1":[
-    "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Christmas_Photo_Frame/landscape_1/frame%20(1).png",
-    "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Christmas_Photo_Frame/landscape_1/frame%20(2).png",
-    "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Christmas_Photo_Frame/landscape_1/frame%20(3).png",
-    "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Christmas_Photo_Frame/landscape_1/frame%20(4).PNG",
-    "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Christmas_Photo_Frame/landscape_1/frame%20(5).png",
-    "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Christmas_Photo_Frame/landscape_1/frame%20(6).png",
-    "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Christmas_Photo_Frame/landscape_1/frame%20(7).png",
-    "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Christmas_Photo_Frame/landscape_1/frame%20(8).PNG",
-    "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Christmas_Photo_Frame/landscape_1/frame%20(9).PNG",
-    "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Christmas_Photo_Frame/landscape_1/frame%20(10).png",
-    "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Christmas_Photo_Frame/landscape_1/frame%20(11).PNG",
-    "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Christmas_Photo_Frame/landscape_1/frame%20(12).png",
-    "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Christmas_Photo_Frame/landscape_1/frame%20(13).PNG",
-    "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Christmas_Photo_Frame/landscape_1/frame%20(14).PNG",
-    "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Christmas_Photo_Frame/landscape_1/frame%20(15).PNG",
-    "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Christmas_Photo_Frame/landscape_1/frame%20(16).PNG",
-    "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Christmas_Photo_Frame/landscape_1/frame%20(17).PNG",
-    "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Christmas_Photo_Frame/landscape_1/frame%20(18).PNG"
-    ],
-    
-  "landscape2":[
+  "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Christmas_Photo_Frame/landscape_1/frame1.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Christmas_Photo_Frame/landscape_1/frame2.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Christmas_Photo_Frame/landscape_1/frame8.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Christmas_Photo_Frame/landscape_1/frame7.webp",
   "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Christmas_Photo_Frame/landscape_2/frame_1.webp",
   "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Christmas_Photo_Frame/landscape_2/frame_2.webp",
   "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Christmas_Photo_Frame/landscape_2/newframe2.png",
   "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Christmas_Photo_Frame/landscape_2/newframe1.png",
+  "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Christmas_Photo_Frame/landscape_1/frame%20(1).png",
+  "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Christmas_Photo_Frame/landscape_1/frame%20(2).png",
+  "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Christmas_Photo_Frame/landscape_1/frame%20(3).png",
+  "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Christmas_Photo_Frame/landscape_1/frame%20(4).PNG",
+  "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Christmas_Photo_Frame/landscape_1/frame%20(5).png",
+  "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Christmas_Photo_Frame/landscape_1/frame%20(6).png",
+  "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Christmas_Photo_Frame/landscape_1/frame%20(7).png",
+  "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Christmas_Photo_Frame/landscape_1/frame%20(8).PNG",
+  "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Christmas_Photo_Frame/landscape_1/frame%20(9).PNG",
+  "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Christmas_Photo_Frame/landscape_1/frame4.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Christmas_Photo_Frame/landscape_1/frame5.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Christmas_Photo_Frame/landscape_1/frame%20(10).png"
+    ],
+    
+  "landscape2":[
+
     "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Christmas_Photo_Frame/landscape_2/frame%20(1).png",
     "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Christmas_Photo_Frame/landscape_2/frame%20(2).png",
     "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Christmas_Photo_Frame/landscape_2/frame%20(3).png",
@@ -70,6 +69,14 @@
     "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Christmas_Photo_Frame/landscape_2/frame%20(11).PNG",
     "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Christmas_Photo_Frame/landscape_2/frame%20(15).PNG",
     "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Christmas_Photo_Frame/landscape_2/frame%20(16).PNG",
-    "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Christmas_Photo_Frame/landscape_2/frame_18.webp"
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Christmas_Photo_Frame/landscape_2/frame_18.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Christmas_Photo_Frame/landscape_1/frame%20(11).PNG",
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Christmas_Photo_Frame/landscape_1/frame%20(12).png",
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Christmas_Photo_Frame/landscape_1/frame%20(13).PNG",
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Christmas_Photo_Frame/landscape_1/frame%20(14).PNG",
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Christmas_Photo_Frame/landscape_1/frame%20(15).PNG",
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Christmas_Photo_Frame/landscape_1/frame%20(16).PNG",
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Christmas_Photo_Frame/landscape_1/frame%20(17).PNG",
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Christmas_Photo_Frame/landscape_1/frame%20(18).PNG"
     ]
 }
