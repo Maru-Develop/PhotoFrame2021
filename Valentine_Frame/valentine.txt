@@ -260,6 +260,7 @@
    "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Valentine_Frame/landscape_4/frame%20(19).webp",
    "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Valentine_Frame/landscape_4/frame%20(20).webp"
   ],
+  
   "landscape_letter4":[
    "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Valentine_Frame/landscape_5/frame%20(1).webp",
    "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Valentine_Frame/landscape_5/frame%20(2).webp",
@@ -286,8 +287,7 @@
    "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Valentine_Frame/landscape_5/frame%20(23).webp"
   ],
   
-
-  "landscape_letter5":[
+  "Chocolate":[
  "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Valentine_Frame/ChocolateDay/frame-1.webp",
  "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Valentine_Frame/ChocolateDay/frame-2.webp",
  "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Valentine_Frame/ChocolateDay/frame-3.webp",
@@ -313,8 +313,8 @@
  "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Valentine_Frame/ChocolateDay/frame-23.webp",
  "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Valentine_Frame/ChocolateDay/frame-24.webp"
   ],
-
- "landscape_letter6":[
+ 
+ "Hug":[
  "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Valentine_Frame/HugDay/frame_1.webp",
  "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Valentine_Frame/HugDay/frame_2.webp",
  "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Valentine_Frame/HugDay/frame_3.webp",
@@ -338,8 +338,8 @@
  "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Valentine_Frame/HugDay/frame_21.webp"
   ],
   
-
- "landscape_letter7":[
+ 
+ "Kiss":[
  
  "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Valentine_Frame/KissDay/frame_1.webp",
  "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Valentine_Frame/KissDay/frame_2.webp",
@@ -358,8 +358,9 @@
  "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Valentine_Frame/KissDay/frame_15.webp",
  "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Valentine_Frame/KissDay/frame_16.webp"
   ],
+  
 
- "landscape_letter8":[
+ "Promise":[
  "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Valentine_Frame/PromiseDay/frame%20(1).webp",
  "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Valentine_Frame/PromiseDay/frame%20(2).webp",
  "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Valentine_Frame/PromiseDay/frame%20(3).webp",
@@ -385,8 +386,9 @@
  "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Valentine_Frame/PromiseDay/frame%20(23).webp",
  "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Valentine_Frame/PromiseDay/frame%20(24).webp" 
   ],
-
- "landscape_letter9":[
+ 
+ 
+ "Propose":[
  "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Valentine_Frame/ProposeDay/frame%20(1).webp",
  "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Valentine_Frame/ProposeDay/frame%20(2).webp",
  "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Valentine_Frame/ProposeDay/frame%20(3).webp",
@@ -413,8 +415,7 @@
  "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Valentine_Frame/ProposeDay/frame%20(24).webp" 
   ],
  
-
-  "landscape_letter10":[
+  "Rose":[
  "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Valentine_Frame/RoseDay/frame-1.webp",
  "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Valentine_Frame/RoseDay/frame-2.webp",
  "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Valentine_Frame/RoseDay/frame-3.webp",
@@ -437,8 +438,7 @@
  "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Valentine_Frame/RoseDay/frame-20.webp"
   ],
   
-  
-  "landscape_letter11":[
+  "Teddy":[
  "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Valentine_Frame/TeddyDay/frame-2.webp",
  "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Valentine_Frame/TeddyDay/frame-3.webp",
  "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Valentine_Frame/TeddyDay/frame-4.webp",
