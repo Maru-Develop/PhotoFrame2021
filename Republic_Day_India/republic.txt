@@ -54,8 +54,7 @@
 "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Republic_Day_India/portrait/frame-10.webp",
 "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Republic_Day_India/portrait/frame-12.webp"
      
-     ]
-    
+     ],
   "square":[
 "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Republic_Day_India/square/frame-1.webp",
 "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Republic_Day_India/square/frame-2.webp",
