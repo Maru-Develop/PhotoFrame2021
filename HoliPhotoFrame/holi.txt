@@ -247,7 +247,7 @@
     "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/HoliPhotoFrame/landscape/landscape5/frame%20(19).webp",
     "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/HoliPhotoFrame/landscape/landscape5/frame%20(20).webp",
     "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/HoliPhotoFrame/landscape/landscape5/frame%20(21).webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/HoliPhotoFrame/landscape/landscape5/frame%20(22).webp
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/HoliPhotoFrame/landscape/landscape5/frame%20(22).webp"
      ],
      
   "landscape5":[
