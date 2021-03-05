@@ -76,16 +76,7 @@
   "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/26MarchFrame/landscape/frame-10.webp",
   "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/26MarchFrame/landscape/frame-11.webp",
   "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/26MarchFrame/landscape/frame-12.webp",
-  "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/26MarchFrame/landscape/frame-13.webp",
-  "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/26MarchFrame/landscape/frame-14.webp",
-  "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/26MarchFrame/landscape/frame-15.webp",
-  "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/26MarchFrame/landscape/frame-16.webp",
-  "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/26MarchFrame/landscape/frame-17.webp",
-  "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/26MarchFrame/landscape/frame-18.webp",
-  "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/26MarchFrame/landscape/frame-19.webp",
-  "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/26MarchFrame/landscape/frame-20.webp",
-  "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/26MarchFrame/landscape/frame-21.webp",
-  "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/26MarchFrame/landscape/frame-22.webp"
+  "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/26MarchFrame/landscape/frame-13.webp"
 ],
     
    "landscape1":[
@@ -108,17 +99,14 @@
    "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/26MarchFrame/landscape1/frame-10.webp",
    "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/26MarchFrame/landscape1/frame-11.webp",
    "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/26MarchFrame/landscape1/frame-12.webp",
-   "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/26MarchFrame/landscape1/frame-13.webp",
-   "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/26MarchFrame/landscape1/frame-14.webp",
-   "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/26MarchFrame/landscape1/frame-15.webp",
-   "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/26MarchFrame/landscape1/frame-16.webp",
-   "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/26MarchFrame/landscape1/frame-17.webp",
-   "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/26MarchFrame/landscape1/frame-18.webp",
-   "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/26MarchFrame/landscape1/frame-19.webp",
-   "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/26MarchFrame/landscape1/frame-20.webp",
-   "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/26MarchFrame/landscape1/frame-21.webp",
-   "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/26MarchFrame/landscape1/frame-22.webp",
-   "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/26MarchFrame/landscape1/frame-23.webp",
-   "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/26MarchFrame/landscape1/frame-24.webp" 
+   "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/26MarchFrame/landscape/frame-14.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/26MarchFrame/landscape/frame-15.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/26MarchFrame/landscape/frame-16.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/26MarchFrame/landscape/frame-17.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/26MarchFrame/landscape/frame-18.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/26MarchFrame/landscape/frame-19.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/26MarchFrame/landscape/frame-20.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/26MarchFrame/landscape/frame-21.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/26MarchFrame/landscape/frame-22.webp"
     ]
   }
